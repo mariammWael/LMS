@@ -1,0 +1,12 @@
+# Study Rooms List
+# Format: ID | Name | Capacity
+ROOM01 | Quiet Study Room 1 | 2
+ROOM02 | Quiet Study Room 2 | 2
+ROOM03 | Group Study Room A | 4
+ROOM04 | Group Study Room B | 4
+ROOM05 | Presentation Room 1 | 6
+ROOM06 | Presentation Room 2 | 6
+ROOM07 | Research Room 1 | 3
+ROOM08 | Research Room 2 | 3
+ROOM09 | Discussion Room 1 | 5
+ROOM10 | Discussion Room 2 | 5

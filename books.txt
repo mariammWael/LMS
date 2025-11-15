@@ -1,0 +1,1002 @@
+# Books List
+# Format: ID | Title | Author
+B0001 | To Kill a Mockingbird | Harper Lee
+B0002 | 1984 | George Orwell
+B0003 | Pride and Prejudice | Jane Austen
+B0004 | The Great Gatsby | F. Scott Fitzgerald
+B0005 | Moby-Dick | Herman Melville
+B0006 | War and Peace | Leo Tolstoy
+B0007 | The Catcher in the Rye | J.D. Salinger
+B0008 | The Hobbit | J.R.R. Tolkien
+B0009 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0010 | The Lord of the Rings | J.R.R. Tolkien
+B0011 | Brave New World | Aldous Huxley
+B0012 | Crime and Punishment | Fyodor Dostoevsky
+B0013 | The Alchemist | Paulo Coelho
+B0014 | The Da Vinci Code | Dan Brown
+B0015 | The Kite Runner | Khaled Hosseini
+B0016 | The Fault in Our Stars | John Green
+B0017 | The Hunger Games | Suzanne Collins
+B0018 | The Chronicles of Narnia | C.S. Lewis
+B0019 | Jane Eyre | Charlotte Brontë
+B0020 | Wuthering Heights | Emily Brontë
+B0021 | The Picture of Dorian Gray | Oscar Wilde
+B0022 | Animal Farm | George Orwell
+B0023 | Little Women | Louisa May Alcott
+B0024 | Les Misérables | Victor Hugo
+B0025 | The Shining | Stephen King
+B0026 | It | Stephen King
+B0027 | A Game of Thrones | George R.R. Martin
+B0028 | The Name of the Wind | Patrick Rothfuss
+B0029 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0030 | Thinking, Fast and Slow | Daniel Kahneman
+B0031 | Clean Code | Robert C. Martin
+B0032 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0033 | Introduction to Algorithms | Thomas H. Cormen
+B0034 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0035 | Operating System Concepts | Abraham Silberschatz
+B0036 | Computer Networks | Andrew S. Tanenbaum
+B0037 | Database System Concepts | Abraham Silberschatz
+B0038 | Modern Operating Systems | Andrew S. Tanenbaum
+B0039 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0040 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0041 | To Kill a Mockingbird | Harper Lee
+B0042 | 1984 | George Orwell
+B0043 | Pride and Prejudice | Jane Austen
+B0044 | The Great Gatsby | F. Scott Fitzgerald
+B0045 | Moby-Dick | Herman Melville
+B0046 | War and Peace | Leo Tolstoy
+B0047 | The Catcher in the Rye | J.D. Salinger
+B0048 | The Hobbit | J.R.R. Tolkien
+B0049 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0050 | The Lord of the Rings | J.R.R. Tolkien
+B0051 | Brave New World | Aldous Huxley
+B0052 | Crime and Punishment | Fyodor Dostoevsky
+B0053 | The Alchemist | Paulo Coelho
+B0054 | The Da Vinci Code | Dan Brown
+B0055 | The Kite Runner | Khaled Hosseini
+B0056 | The Fault in Our Stars | John Green
+B0057 | The Hunger Games | Suzanne Collins
+B0058 | The Chronicles of Narnia | C.S. Lewis
+B0059 | Jane Eyre | Charlotte Brontë
+B0060 | Wuthering Heights | Emily Brontë
+B0061 | The Picture of Dorian Gray | Oscar Wilde
+B0062 | Animal Farm | George Orwell
+B0063 | Little Women | Louisa May Alcott
+B0064 | Les Misérables | Victor Hugo
+B0065 | The Shining | Stephen King
+B0066 | It | Stephen King
+B0067 | A Game of Thrones | George R.R. Martin
+B0068 | The Name of the Wind | Patrick Rothfuss
+B0069 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0070 | Thinking, Fast and Slow | Daniel Kahneman
+B0071 | Clean Code | Robert C. Martin
+B0072 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0073 | Introduction to Algorithms | Thomas H. Cormen
+B0074 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0075 | Operating System Concepts | Abraham Silberschatz
+B0076 | Computer Networks | Andrew S. Tanenbaum
+B0077 | Database System Concepts | Abraham Silberschatz
+B0078 | Modern Operating Systems | Andrew S. Tanenbaum
+B0079 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0080 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0081 | To Kill a Mockingbird | Harper Lee
+B0082 | 1984 | George Orwell
+B0083 | Pride and Prejudice | Jane Austen
+B0084 | The Great Gatsby | F. Scott Fitzgerald
+B0085 | Moby-Dick | Herman Melville
+B0086 | War and Peace | Leo Tolstoy
+B0087 | The Catcher in the Rye | J.D. Salinger
+B0088 | The Hobbit | J.R.R. Tolkien
+B0089 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0090 | The Lord of the Rings | J.R.R. Tolkien
+B0091 | Brave New World | Aldous Huxley
+B0092 | Crime and Punishment | Fyodor Dostoevsky
+B0093 | The Alchemist | Paulo Coelho
+B0094 | The Da Vinci Code | Dan Brown
+B0095 | The Kite Runner | Khaled Hosseini
+B0096 | The Fault in Our Stars | John Green
+B0097 | The Hunger Games | Suzanne Collins
+B0098 | The Chronicles of Narnia | C.S. Lewis
+B0099 | Jane Eyre | Charlotte Brontë
+B0100 | Wuthering Heights | Emily Brontë
+B0101 | The Picture of Dorian Gray | Oscar Wilde
+B0102 | Animal Farm | George Orwell
+B0103 | Little Women | Louisa May Alcott
+B0104 | Les Misérables | Victor Hugo
+B0105 | The Shining | Stephen King
+B0106 | It | Stephen King
+B0107 | A Game of Thrones | George R.R. Martin
+B0108 | The Name of the Wind | Patrick Rothfuss
+B0109 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0110 | Thinking, Fast and Slow | Daniel Kahneman
+B0111 | Clean Code | Robert C. Martin
+B0112 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0113 | Introduction to Algorithms | Thomas H. Cormen
+B0114 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0115 | Operating System Concepts | Abraham Silberschatz
+B0116 | Computer Networks | Andrew S. Tanenbaum
+B0117 | Database System Concepts | Abraham Silberschatz
+B0118 | Modern Operating Systems | Andrew S. Tanenbaum
+B0119 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0120 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0121 | To Kill a Mockingbird | Harper Lee
+B0122 | 1984 | George Orwell
+B0123 | Pride and Prejudice | Jane Austen
+B0124 | The Great Gatsby | F. Scott Fitzgerald
+B0125 | Moby-Dick | Herman Melville
+B0126 | War and Peace | Leo Tolstoy
+B0127 | The Catcher in the Rye | J.D. Salinger
+B0128 | The Hobbit | J.R.R. Tolkien
+B0129 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0130 | The Lord of the Rings | J.R.R. Tolkien
+B0131 | Brave New World | Aldous Huxley
+B0132 | Crime and Punishment | Fyodor Dostoevsky
+B0133 | The Alchemist | Paulo Coelho
+B0134 | The Da Vinci Code | Dan Brown
+B0135 | The Kite Runner | Khaled Hosseini
+B0136 | The Fault in Our Stars | John Green
+B0137 | The Hunger Games | Suzanne Collins
+B0138 | The Chronicles of Narnia | C.S. Lewis
+B0139 | Jane Eyre | Charlotte Brontë
+B0140 | Wuthering Heights | Emily Brontë
+B0141 | The Picture of Dorian Gray | Oscar Wilde
+B0142 | Animal Farm | George Orwell
+B0143 | Little Women | Louisa May Alcott
+B0144 | Les Misérables | Victor Hugo
+B0145 | The Shining | Stephen King
+B0146 | It | Stephen King
+B0147 | A Game of Thrones | George R.R. Martin
+B0148 | The Name of the Wind | Patrick Rothfuss
+B0149 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0150 | Thinking, Fast and Slow | Daniel Kahneman
+B0151 | Clean Code | Robert C. Martin
+B0152 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0153 | Introduction to Algorithms | Thomas H. Cormen
+B0154 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0155 | Operating System Concepts | Abraham Silberschatz
+B0156 | Computer Networks | Andrew S. Tanenbaum
+B0157 | Database System Concepts | Abraham Silberschatz
+B0158 | Modern Operating Systems | Andrew S. Tanenbaum
+B0159 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0160 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0161 | To Kill a Mockingbird | Harper Lee
+B0162 | 1984 | George Orwell
+B0163 | Pride and Prejudice | Jane Austen
+B0164 | The Great Gatsby | F. Scott Fitzgerald
+B0165 | Moby-Dick | Herman Melville
+B0166 | War and Peace | Leo Tolstoy
+B0167 | The Catcher in the Rye | J.D. Salinger
+B0168 | The Hobbit | J.R.R. Tolkien
+B0169 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0170 | The Lord of the Rings | J.R.R. Tolkien
+B0171 | Brave New World | Aldous Huxley
+B0172 | Crime and Punishment | Fyodor Dostoevsky
+B0173 | The Alchemist | Paulo Coelho
+B0174 | The Da Vinci Code | Dan Brown
+B0175 | The Kite Runner | Khaled Hosseini
+B0176 | The Fault in Our Stars | John Green
+B0177 | The Hunger Games | Suzanne Collins
+B0178 | The Chronicles of Narnia | C.S. Lewis
+B0179 | Jane Eyre | Charlotte Brontë
+B0180 | Wuthering Heights | Emily Brontë
+B0181 | The Picture of Dorian Gray | Oscar Wilde
+B0182 | Animal Farm | George Orwell
+B0183 | Little Women | Louisa May Alcott
+B0184 | Les Misérables | Victor Hugo
+B0185 | The Shining | Stephen King
+B0186 | It | Stephen King
+B0187 | A Game of Thrones | George R.R. Martin
+B0188 | The Name of the Wind | Patrick Rothfuss
+B0189 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0190 | Thinking, Fast and Slow | Daniel Kahneman
+B0191 | Clean Code | Robert C. Martin
+B0192 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0193 | Introduction to Algorithms | Thomas H. Cormen
+B0194 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0195 | Operating System Concepts | Abraham Silberschatz
+B0196 | Computer Networks | Andrew S. Tanenbaum
+B0197 | Database System Concepts | Abraham Silberschatz
+B0198 | Modern Operating Systems | Andrew S. Tanenbaum
+B0199 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0200 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0201 | To Kill a Mockingbird | Harper Lee
+B0202 | 1984 | George Orwell
+B0203 | Pride and Prejudice | Jane Austen
+B0204 | The Great Gatsby | F. Scott Fitzgerald
+B0205 | Moby-Dick | Herman Melville
+B0206 | War and Peace | Leo Tolstoy
+B0207 | The Catcher in the Rye | J.D. Salinger
+B0208 | The Hobbit | J.R.R. Tolkien
+B0209 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0210 | The Lord of the Rings | J.R.R. Tolkien
+B0211 | Brave New World | Aldous Huxley
+B0212 | Crime and Punishment | Fyodor Dostoevsky
+B0213 | The Alchemist | Paulo Coelho
+B0214 | The Da Vinci Code | Dan Brown
+B0215 | The Kite Runner | Khaled Hosseini
+B0216 | The Fault in Our Stars | John Green
+B0217 | The Hunger Games | Suzanne Collins
+B0218 | The Chronicles of Narnia | C.S. Lewis
+B0219 | Jane Eyre | Charlotte Brontë
+B0220 | Wuthering Heights | Emily Brontë
+B0221 | The Picture of Dorian Gray | Oscar Wilde
+B0222 | Animal Farm | George Orwell
+B0223 | Little Women | Louisa May Alcott
+B0224 | Les Misérables | Victor Hugo
+B0225 | The Shining | Stephen King
+B0226 | It | Stephen King
+B0227 | A Game of Thrones | George R.R. Martin
+B0228 | The Name of the Wind | Patrick Rothfuss
+B0229 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0230 | Thinking, Fast and Slow | Daniel Kahneman
+B0231 | Clean Code | Robert C. Martin
+B0232 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0233 | Introduction to Algorithms | Thomas H. Cormen
+B0234 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0235 | Operating System Concepts | Abraham Silberschatz
+B0236 | Computer Networks | Andrew S. Tanenbaum
+B0237 | Database System Concepts | Abraham Silberschatz
+B0238 | Modern Operating Systems | Andrew S. Tanenbaum
+B0239 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0240 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0241 | To Kill a Mockingbird | Harper Lee
+B0242 | 1984 | George Orwell
+B0243 | Pride and Prejudice | Jane Austen
+B0244 | The Great Gatsby | F. Scott Fitzgerald
+B0245 | Moby-Dick | Herman Melville
+B0246 | War and Peace | Leo Tolstoy
+B0247 | The Catcher in the Rye | J.D. Salinger
+B0248 | The Hobbit | J.R.R. Tolkien
+B0249 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0250 | The Lord of the Rings | J.R.R. Tolkien
+B0251 | Brave New World | Aldous Huxley
+B0252 | Crime and Punishment | Fyodor Dostoevsky
+B0253 | The Alchemist | Paulo Coelho
+B0254 | The Da Vinci Code | Dan Brown
+B0255 | The Kite Runner | Khaled Hosseini
+B0256 | The Fault in Our Stars | John Green
+B0257 | The Hunger Games | Suzanne Collins
+B0258 | The Chronicles of Narnia | C.S. Lewis
+B0259 | Jane Eyre | Charlotte Brontë
+B0260 | Wuthering Heights | Emily Brontë
+B0261 | The Picture of Dorian Gray | Oscar Wilde
+B0262 | Animal Farm | George Orwell
+B0263 | Little Women | Louisa May Alcott
+B0264 | Les Misérables | Victor Hugo
+B0265 | The Shining | Stephen King
+B0266 | It | Stephen King
+B0267 | A Game of Thrones | George R.R. Martin
+B0268 | The Name of the Wind | Patrick Rothfuss
+B0269 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0270 | Thinking, Fast and Slow | Daniel Kahneman
+B0271 | Clean Code | Robert C. Martin
+B0272 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0273 | Introduction to Algorithms | Thomas H. Cormen
+B0274 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0275 | Operating System Concepts | Abraham Silberschatz
+B0276 | Computer Networks | Andrew S. Tanenbaum
+B0277 | Database System Concepts | Abraham Silberschatz
+B0278 | Modern Operating Systems | Andrew S. Tanenbaum
+B0279 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0280 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0281 | To Kill a Mockingbird | Harper Lee
+B0282 | 1984 | George Orwell
+B0283 | Pride and Prejudice | Jane Austen
+B0284 | The Great Gatsby | F. Scott Fitzgerald
+B0285 | Moby-Dick | Herman Melville
+B0286 | War and Peace | Leo Tolstoy
+B0287 | The Catcher in the Rye | J.D. Salinger
+B0288 | The Hobbit | J.R.R. Tolkien
+B0289 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0290 | The Lord of the Rings | J.R.R. Tolkien
+B0291 | Brave New World | Aldous Huxley
+B0292 | Crime and Punishment | Fyodor Dostoevsky
+B0293 | The Alchemist | Paulo Coelho
+B0294 | The Da Vinci Code | Dan Brown
+B0295 | The Kite Runner | Khaled Hosseini
+B0296 | The Fault in Our Stars | John Green
+B0297 | The Hunger Games | Suzanne Collins
+B0298 | The Chronicles of Narnia | C.S. Lewis
+B0299 | Jane Eyre | Charlotte Brontë
+B0300 | Wuthering Heights | Emily Brontë
+B0301 | The Picture of Dorian Gray | Oscar Wilde
+B0302 | Animal Farm | George Orwell
+B0303 | Little Women | Louisa May Alcott
+B0304 | Les Misérables | Victor Hugo
+B0305 | The Shining | Stephen King
+B0306 | It | Stephen King
+B0307 | A Game of Thrones | George R.R. Martin
+B0308 | The Name of the Wind | Patrick Rothfuss
+B0309 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0310 | Thinking, Fast and Slow | Daniel Kahneman
+B0311 | Clean Code | Robert C. Martin
+B0312 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0313 | Introduction to Algorithms | Thomas H. Cormen
+B0314 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0315 | Operating System Concepts | Abraham Silberschatz
+B0316 | Computer Networks | Andrew S. Tanenbaum
+B0317 | Database System Concepts | Abraham Silberschatz
+B0318 | Modern Operating Systems | Andrew S. Tanenbaum
+B0319 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0320 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0321 | To Kill a Mockingbird | Harper Lee
+B0322 | 1984 | George Orwell
+B0323 | Pride and Prejudice | Jane Austen
+B0324 | The Great Gatsby | F. Scott Fitzgerald
+B0325 | Moby-Dick | Herman Melville
+B0326 | War and Peace | Leo Tolstoy
+B0327 | The Catcher in the Rye | J.D. Salinger
+B0328 | The Hobbit | J.R.R. Tolkien
+B0329 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0330 | The Lord of the Rings | J.R.R. Tolkien
+B0331 | Brave New World | Aldous Huxley
+B0332 | Crime and Punishment | Fyodor Dostoevsky
+B0333 | The Alchemist | Paulo Coelho
+B0334 | The Da Vinci Code | Dan Brown
+B0335 | The Kite Runner | Khaled Hosseini
+B0336 | The Fault in Our Stars | John Green
+B0337 | The Hunger Games | Suzanne Collins
+B0338 | The Chronicles of Narnia | C.S. Lewis
+B0339 | Jane Eyre | Charlotte Brontë
+B0340 | Wuthering Heights | Emily Brontë
+B0341 | The Picture of Dorian Gray | Oscar Wilde
+B0342 | Animal Farm | George Orwell
+B0343 | Little Women | Louisa May Alcott
+B0344 | Les Misérables | Victor Hugo
+B0345 | The Shining | Stephen King
+B0346 | It | Stephen King
+B0347 | A Game of Thrones | George R.R. Martin
+B0348 | The Name of the Wind | Patrick Rothfuss
+B0349 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0350 | Thinking, Fast and Slow | Daniel Kahneman
+B0351 | Clean Code | Robert C. Martin
+B0352 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0353 | Introduction to Algorithms | Thomas H. Cormen
+B0354 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0355 | Operating System Concepts | Abraham Silberschatz
+B0356 | Computer Networks | Andrew S. Tanenbaum
+B0357 | Database System Concepts | Abraham Silberschatz
+B0358 | Modern Operating Systems | Andrew S. Tanenbaum
+B0359 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0360 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0361 | To Kill a Mockingbird | Harper Lee
+B0362 | 1984 | George Orwell
+B0363 | Pride and Prejudice | Jane Austen
+B0364 | The Great Gatsby | F. Scott Fitzgerald
+B0365 | Moby-Dick | Herman Melville
+B0366 | War and Peace | Leo Tolstoy
+B0367 | The Catcher in the Rye | J.D. Salinger
+B0368 | The Hobbit | J.R.R. Tolkien
+B0369 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0370 | The Lord of the Rings | J.R.R. Tolkien
+B0371 | Brave New World | Aldous Huxley
+B0372 | Crime and Punishment | Fyodor Dostoevsky
+B0373 | The Alchemist | Paulo Coelho
+B0374 | The Da Vinci Code | Dan Brown
+B0375 | The Kite Runner | Khaled Hosseini
+B0376 | The Fault in Our Stars | John Green
+B0377 | The Hunger Games | Suzanne Collins
+B0378 | The Chronicles of Narnia | C.S. Lewis
+B0379 | Jane Eyre | Charlotte Brontë
+B0380 | Wuthering Heights | Emily Brontë
+B0381 | The Picture of Dorian Gray | Oscar Wilde
+B0382 | Animal Farm | George Orwell
+B0383 | Little Women | Louisa May Alcott
+B0384 | Les Misérables | Victor Hugo
+B0385 | The Shining | Stephen King
+B0386 | It | Stephen King
+B0387 | A Game of Thrones | George R.R. Martin
+B0388 | The Name of the Wind | Patrick Rothfuss
+B0389 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0390 | Thinking, Fast and Slow | Daniel Kahneman
+B0391 | Clean Code | Robert C. Martin
+B0392 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0393 | Introduction to Algorithms | Thomas H. Cormen
+B0394 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0395 | Operating System Concepts | Abraham Silberschatz
+B0396 | Computer Networks | Andrew S. Tanenbaum
+B0397 | Database System Concepts | Abraham Silberschatz
+B0398 | Modern Operating Systems | Andrew S. Tanenbaum
+B0399 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0400 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0401 | To Kill a Mockingbird | Harper Lee
+B0402 | 1984 | George Orwell
+B0403 | Pride and Prejudice | Jane Austen
+B0404 | The Great Gatsby | F. Scott Fitzgerald
+B0405 | Moby-Dick | Herman Melville
+B0406 | War and Peace | Leo Tolstoy
+B0407 | The Catcher in the Rye | J.D. Salinger
+B0408 | The Hobbit | J.R.R. Tolkien
+B0409 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0410 | The Lord of the Rings | J.R.R. Tolkien
+B0411 | Brave New World | Aldous Huxley
+B0412 | Crime and Punishment | Fyodor Dostoevsky
+B0413 | The Alchemist | Paulo Coelho
+B0414 | The Da Vinci Code | Dan Brown
+B0415 | The Kite Runner | Khaled Hosseini
+B0416 | The Fault in Our Stars | John Green
+B0417 | The Hunger Games | Suzanne Collins
+B0418 | The Chronicles of Narnia | C.S. Lewis
+B0419 | Jane Eyre | Charlotte Brontë
+B0420 | Wuthering Heights | Emily Brontë
+B0421 | The Picture of Dorian Gray | Oscar Wilde
+B0422 | Animal Farm | George Orwell
+B0423 | Little Women | Louisa May Alcott
+B0424 | Les Misérables | Victor Hugo
+B0425 | The Shining | Stephen King
+B0426 | It | Stephen King
+B0427 | A Game of Thrones | George R.R. Martin
+B0428 | The Name of the Wind | Patrick Rothfuss
+B0429 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0430 | Thinking, Fast and Slow | Daniel Kahneman
+B0431 | Clean Code | Robert C. Martin
+B0432 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0433 | Introduction to Algorithms | Thomas H. Cormen
+B0434 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0435 | Operating System Concepts | Abraham Silberschatz
+B0436 | Computer Networks | Andrew S. Tanenbaum
+B0437 | Database System Concepts | Abraham Silberschatz
+B0438 | Modern Operating Systems | Andrew S. Tanenbaum
+B0439 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0440 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0441 | To Kill a Mockingbird | Harper Lee
+B0442 | 1984 | George Orwell
+B0443 | Pride and Prejudice | Jane Austen
+B0444 | The Great Gatsby | F. Scott Fitzgerald
+B0445 | Moby-Dick | Herman Melville
+B0446 | War and Peace | Leo Tolstoy
+B0447 | The Catcher in the Rye | J.D. Salinger
+B0448 | The Hobbit | J.R.R. Tolkien
+B0449 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0450 | The Lord of the Rings | J.R.R. Tolkien
+B0451 | Brave New World | Aldous Huxley
+B0452 | Crime and Punishment | Fyodor Dostoevsky
+B0453 | The Alchemist | Paulo Coelho
+B0454 | The Da Vinci Code | Dan Brown
+B0455 | The Kite Runner | Khaled Hosseini
+B0456 | The Fault in Our Stars | John Green
+B0457 | The Hunger Games | Suzanne Collins
+B0458 | The Chronicles of Narnia | C.S. Lewis
+B0459 | Jane Eyre | Charlotte Brontë
+B0460 | Wuthering Heights | Emily Brontë
+B0461 | The Picture of Dorian Gray | Oscar Wilde
+B0462 | Animal Farm | George Orwell
+B0463 | Little Women | Louisa May Alcott
+B0464 | Les Misérables | Victor Hugo
+B0465 | The Shining | Stephen King
+B0466 | It | Stephen King
+B0467 | A Game of Thrones | George R.R. Martin
+B0468 | The Name of the Wind | Patrick Rothfuss
+B0469 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0470 | Thinking, Fast and Slow | Daniel Kahneman
+B0471 | Clean Code | Robert C. Martin
+B0472 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0473 | Introduction to Algorithms | Thomas H. Cormen
+B0474 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0475 | Operating System Concepts | Abraham Silberschatz
+B0476 | Computer Networks | Andrew S. Tanenbaum
+B0477 | Database System Concepts | Abraham Silberschatz
+B0478 | Modern Operating Systems | Andrew S. Tanenbaum
+B0479 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0480 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0481 | To Kill a Mockingbird | Harper Lee
+B0482 | 1984 | George Orwell
+B0483 | Pride and Prejudice | Jane Austen
+B0484 | The Great Gatsby | F. Scott Fitzgerald
+B0485 | Moby-Dick | Herman Melville
+B0486 | War and Peace | Leo Tolstoy
+B0487 | The Catcher in the Rye | J.D. Salinger
+B0488 | The Hobbit | J.R.R. Tolkien
+B0489 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0490 | The Lord of the Rings | J.R.R. Tolkien
+B0491 | Brave New World | Aldous Huxley
+B0492 | Crime and Punishment | Fyodor Dostoevsky
+B0493 | The Alchemist | Paulo Coelho
+B0494 | The Da Vinci Code | Dan Brown
+B0495 | The Kite Runner | Khaled Hosseini
+B0496 | The Fault in Our Stars | John Green
+B0497 | The Hunger Games | Suzanne Collins
+B0498 | The Chronicles of Narnia | C.S. Lewis
+B0499 | Jane Eyre | Charlotte Brontë
+B0500 | Wuthering Heights | Emily Brontë
+B0501 | The Picture of Dorian Gray | Oscar Wilde
+B0502 | Animal Farm | George Orwell
+B0503 | Little Women | Louisa May Alcott
+B0504 | Les Misérables | Victor Hugo
+B0505 | The Shining | Stephen King
+B0506 | It | Stephen King
+B0507 | A Game of Thrones | George R.R. Martin
+B0508 | The Name of the Wind | Patrick Rothfuss
+B0509 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0510 | Thinking, Fast and Slow | Daniel Kahneman
+B0511 | Clean Code | Robert C. Martin
+B0512 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0513 | Introduction to Algorithms | Thomas H. Cormen
+B0514 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0515 | Operating System Concepts | Abraham Silberschatz
+B0516 | Computer Networks | Andrew S. Tanenbaum
+B0517 | Database System Concepts | Abraham Silberschatz
+B0518 | Modern Operating Systems | Andrew S. Tanenbaum
+B0519 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0520 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0521 | To Kill a Mockingbird | Harper Lee
+B0522 | 1984 | George Orwell
+B0523 | Pride and Prejudice | Jane Austen
+B0524 | The Great Gatsby | F. Scott Fitzgerald
+B0525 | Moby-Dick | Herman Melville
+B0526 | War and Peace | Leo Tolstoy
+B0527 | The Catcher in the Rye | J.D. Salinger
+B0528 | The Hobbit | J.R.R. Tolkien
+B0529 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0530 | The Lord of the Rings | J.R.R. Tolkien
+B0531 | Brave New World | Aldous Huxley
+B0532 | Crime and Punishment | Fyodor Dostoevsky
+B0533 | The Alchemist | Paulo Coelho
+B0534 | The Da Vinci Code | Dan Brown
+B0535 | The Kite Runner | Khaled Hosseini
+B0536 | The Fault in Our Stars | John Green
+B0537 | The Hunger Games | Suzanne Collins
+B0538 | The Chronicles of Narnia | C.S. Lewis
+B0539 | Jane Eyre | Charlotte Brontë
+B0540 | Wuthering Heights | Emily Brontë
+B0541 | The Picture of Dorian Gray | Oscar Wilde
+B0542 | Animal Farm | George Orwell
+B0543 | Little Women | Louisa May Alcott
+B0544 | Les Misérables | Victor Hugo
+B0545 | The Shining | Stephen King
+B0546 | It | Stephen King
+B0547 | A Game of Thrones | George R.R. Martin
+B0548 | The Name of the Wind | Patrick Rothfuss
+B0549 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0550 | Thinking, Fast and Slow | Daniel Kahneman
+B0551 | Clean Code | Robert C. Martin
+B0552 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0553 | Introduction to Algorithms | Thomas H. Cormen
+B0554 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0555 | Operating System Concepts | Abraham Silberschatz
+B0556 | Computer Networks | Andrew S. Tanenbaum
+B0557 | Database System Concepts | Abraham Silberschatz
+B0558 | Modern Operating Systems | Andrew S. Tanenbaum
+B0559 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0560 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0561 | To Kill a Mockingbird | Harper Lee
+B0562 | 1984 | George Orwell
+B0563 | Pride and Prejudice | Jane Austen
+B0564 | The Great Gatsby | F. Scott Fitzgerald
+B0565 | Moby-Dick | Herman Melville
+B0566 | War and Peace | Leo Tolstoy
+B0567 | The Catcher in the Rye | J.D. Salinger
+B0568 | The Hobbit | J.R.R. Tolkien
+B0569 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0570 | The Lord of the Rings | J.R.R. Tolkien
+B0571 | Brave New World | Aldous Huxley
+B0572 | Crime and Punishment | Fyodor Dostoevsky
+B0573 | The Alchemist | Paulo Coelho
+B0574 | The Da Vinci Code | Dan Brown
+B0575 | The Kite Runner | Khaled Hosseini
+B0576 | The Fault in Our Stars | John Green
+B0577 | The Hunger Games | Suzanne Collins
+B0578 | The Chronicles of Narnia | C.S. Lewis
+B0579 | Jane Eyre | Charlotte Brontë
+B0580 | Wuthering Heights | Emily Brontë
+B0581 | The Picture of Dorian Gray | Oscar Wilde
+B0582 | Animal Farm | George Orwell
+B0583 | Little Women | Louisa May Alcott
+B0584 | Les Misérables | Victor Hugo
+B0585 | The Shining | Stephen King
+B0586 | It | Stephen King
+B0587 | A Game of Thrones | George R.R. Martin
+B0588 | The Name of the Wind | Patrick Rothfuss
+B0589 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0590 | Thinking, Fast and Slow | Daniel Kahneman
+B0591 | Clean Code | Robert C. Martin
+B0592 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0593 | Introduction to Algorithms | Thomas H. Cormen
+B0594 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0595 | Operating System Concepts | Abraham Silberschatz
+B0596 | Computer Networks | Andrew S. Tanenbaum
+B0597 | Database System Concepts | Abraham Silberschatz
+B0598 | Modern Operating Systems | Andrew S. Tanenbaum
+B0599 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0600 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0601 | To Kill a Mockingbird | Harper Lee
+B0602 | 1984 | George Orwell
+B0603 | Pride and Prejudice | Jane Austen
+B0604 | The Great Gatsby | F. Scott Fitzgerald
+B0605 | Moby-Dick | Herman Melville
+B0606 | War and Peace | Leo Tolstoy
+B0607 | The Catcher in the Rye | J.D. Salinger
+B0608 | The Hobbit | J.R.R. Tolkien
+B0609 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0610 | The Lord of the Rings | J.R.R. Tolkien
+B0611 | Brave New World | Aldous Huxley
+B0612 | Crime and Punishment | Fyodor Dostoevsky
+B0613 | The Alchemist | Paulo Coelho
+B0614 | The Da Vinci Code | Dan Brown
+B0615 | The Kite Runner | Khaled Hosseini
+B0616 | The Fault in Our Stars | John Green
+B0617 | The Hunger Games | Suzanne Collins
+B0618 | The Chronicles of Narnia | C.S. Lewis
+B0619 | Jane Eyre | Charlotte Brontë
+B0620 | Wuthering Heights | Emily Brontë
+B0621 | The Picture of Dorian Gray | Oscar Wilde
+B0622 | Animal Farm | George Orwell
+B0623 | Little Women | Louisa May Alcott
+B0624 | Les Misérables | Victor Hugo
+B0625 | The Shining | Stephen King
+B0626 | It | Stephen King
+B0627 | A Game of Thrones | George R.R. Martin
+B0628 | The Name of the Wind | Patrick Rothfuss
+B0629 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0630 | Thinking, Fast and Slow | Daniel Kahneman
+B0631 | Clean Code | Robert C. Martin
+B0632 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0633 | Introduction to Algorithms | Thomas H. Cormen
+B0634 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0635 | Operating System Concepts | Abraham Silberschatz
+B0636 | Computer Networks | Andrew S. Tanenbaum
+B0637 | Database System Concepts | Abraham Silberschatz
+B0638 | Modern Operating Systems | Andrew S. Tanenbaum
+B0639 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0640 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0641 | To Kill a Mockingbird | Harper Lee
+B0642 | 1984 | George Orwell
+B0643 | Pride and Prejudice | Jane Austen
+B0644 | The Great Gatsby | F. Scott Fitzgerald
+B0645 | Moby-Dick | Herman Melville
+B0646 | War and Peace | Leo Tolstoy
+B0647 | The Catcher in the Rye | J.D. Salinger
+B0648 | The Hobbit | J.R.R. Tolkien
+B0649 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0650 | The Lord of the Rings | J.R.R. Tolkien
+B0651 | Brave New World | Aldous Huxley
+B0652 | Crime and Punishment | Fyodor Dostoevsky
+B0653 | The Alchemist | Paulo Coelho
+B0654 | The Da Vinci Code | Dan Brown
+B0655 | The Kite Runner | Khaled Hosseini
+B0656 | The Fault in Our Stars | John Green
+B0657 | The Hunger Games | Suzanne Collins
+B0658 | The Chronicles of Narnia | C.S. Lewis
+B0659 | Jane Eyre | Charlotte Brontë
+B0660 | Wuthering Heights | Emily Brontë
+B0661 | The Picture of Dorian Gray | Oscar Wilde
+B0662 | Animal Farm | George Orwell
+B0663 | Little Women | Louisa May Alcott
+B0664 | Les Misérables | Victor Hugo
+B0665 | The Shining | Stephen King
+B0666 | It | Stephen King
+B0667 | A Game of Thrones | George R.R. Martin
+B0668 | The Name of the Wind | Patrick Rothfuss
+B0669 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0670 | Thinking, Fast and Slow | Daniel Kahneman
+B0671 | Clean Code | Robert C. Martin
+B0672 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0673 | Introduction to Algorithms | Thomas H. Cormen
+B0674 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0675 | Operating System Concepts | Abraham Silberschatz
+B0676 | Computer Networks | Andrew S. Tanenbaum
+B0677 | Database System Concepts | Abraham Silberschatz
+B0678 | Modern Operating Systems | Andrew S. Tanenbaum
+B0679 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0680 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0681 | To Kill a Mockingbird | Harper Lee
+B0682 | 1984 | George Orwell
+B0683 | Pride and Prejudice | Jane Austen
+B0684 | The Great Gatsby | F. Scott Fitzgerald
+B0685 | Moby-Dick | Herman Melville
+B0686 | War and Peace | Leo Tolstoy
+B0687 | The Catcher in the Rye | J.D. Salinger
+B0688 | The Hobbit | J.R.R. Tolkien
+B0689 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0690 | The Lord of the Rings | J.R.R. Tolkien
+B0691 | Brave New World | Aldous Huxley
+B0692 | Crime and Punishment | Fyodor Dostoevsky
+B0693 | The Alchemist | Paulo Coelho
+B0694 | The Da Vinci Code | Dan Brown
+B0695 | The Kite Runner | Khaled Hosseini
+B0696 | The Fault in Our Stars | John Green
+B0697 | The Hunger Games | Suzanne Collins
+B0698 | The Chronicles of Narnia | C.S. Lewis
+B0699 | Jane Eyre | Charlotte Brontë
+B0700 | Wuthering Heights | Emily Brontë
+B0701 | The Picture of Dorian Gray | Oscar Wilde
+B0702 | Animal Farm | George Orwell
+B0703 | Little Women | Louisa May Alcott
+B0704 | Les Misérables | Victor Hugo
+B0705 | The Shining | Stephen King
+B0706 | It | Stephen King
+B0707 | A Game of Thrones | George R.R. Martin
+B0708 | The Name of the Wind | Patrick Rothfuss
+B0709 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0710 | Thinking, Fast and Slow | Daniel Kahneman
+B0711 | Clean Code | Robert C. Martin
+B0712 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0713 | Introduction to Algorithms | Thomas H. Cormen
+B0714 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0715 | Operating System Concepts | Abraham Silberschatz
+B0716 | Computer Networks | Andrew S. Tanenbaum
+B0717 | Database System Concepts | Abraham Silberschatz
+B0718 | Modern Operating Systems | Andrew S. Tanenbaum
+B0719 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0720 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0721 | To Kill a Mockingbird | Harper Lee
+B0722 | 1984 | George Orwell
+B0723 | Pride and Prejudice | Jane Austen
+B0724 | The Great Gatsby | F. Scott Fitzgerald
+B0725 | Moby-Dick | Herman Melville
+B0726 | War and Peace | Leo Tolstoy
+B0727 | The Catcher in the Rye | J.D. Salinger
+B0728 | The Hobbit | J.R.R. Tolkien
+B0729 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0730 | The Lord of the Rings | J.R.R. Tolkien
+B0731 | Brave New World | Aldous Huxley
+B0732 | Crime and Punishment | Fyodor Dostoevsky
+B0733 | The Alchemist | Paulo Coelho
+B0734 | The Da Vinci Code | Dan Brown
+B0735 | The Kite Runner | Khaled Hosseini
+B0736 | The Fault in Our Stars | John Green
+B0737 | The Hunger Games | Suzanne Collins
+B0738 | The Chronicles of Narnia | C.S. Lewis
+B0739 | Jane Eyre | Charlotte Brontë
+B0740 | Wuthering Heights | Emily Brontë
+B0741 | The Picture of Dorian Gray | Oscar Wilde
+B0742 | Animal Farm | George Orwell
+B0743 | Little Women | Louisa May Alcott
+B0744 | Les Misérables | Victor Hugo
+B0745 | The Shining | Stephen King
+B0746 | It | Stephen King
+B0747 | A Game of Thrones | George R.R. Martin
+B0748 | The Name of the Wind | Patrick Rothfuss
+B0749 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0750 | Thinking, Fast and Slow | Daniel Kahneman
+B0751 | Clean Code | Robert C. Martin
+B0752 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0753 | Introduction to Algorithms | Thomas H. Cormen
+B0754 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0755 | Operating System Concepts | Abraham Silberschatz
+B0756 | Computer Networks | Andrew S. Tanenbaum
+B0757 | Database System Concepts | Abraham Silberschatz
+B0758 | Modern Operating Systems | Andrew S. Tanenbaum
+B0759 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0760 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0761 | To Kill a Mockingbird | Harper Lee
+B0762 | 1984 | George Orwell
+B0763 | Pride and Prejudice | Jane Austen
+B0764 | The Great Gatsby | F. Scott Fitzgerald
+B0765 | Moby-Dick | Herman Melville
+B0766 | War and Peace | Leo Tolstoy
+B0767 | The Catcher in the Rye | J.D. Salinger
+B0768 | The Hobbit | J.R.R. Tolkien
+B0769 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0770 | The Lord of the Rings | J.R.R. Tolkien
+B0771 | Brave New World | Aldous Huxley
+B0772 | Crime and Punishment | Fyodor Dostoevsky
+B0773 | The Alchemist | Paulo Coelho
+B0774 | The Da Vinci Code | Dan Brown
+B0775 | The Kite Runner | Khaled Hosseini
+B0776 | The Fault in Our Stars | John Green
+B0777 | The Hunger Games | Suzanne Collins
+B0778 | The Chronicles of Narnia | C.S. Lewis
+B0779 | Jane Eyre | Charlotte Brontë
+B0780 | Wuthering Heights | Emily Brontë
+B0781 | The Picture of Dorian Gray | Oscar Wilde
+B0782 | Animal Farm | George Orwell
+B0783 | Little Women | Louisa May Alcott
+B0784 | Les Misérables | Victor Hugo
+B0785 | The Shining | Stephen King
+B0786 | It | Stephen King
+B0787 | A Game of Thrones | George R.R. Martin
+B0788 | The Name of the Wind | Patrick Rothfuss
+B0789 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0790 | Thinking, Fast and Slow | Daniel Kahneman
+B0791 | Clean Code | Robert C. Martin
+B0792 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0793 | Introduction to Algorithms | Thomas H. Cormen
+B0794 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0795 | Operating System Concepts | Abraham Silberschatz
+B0796 | Computer Networks | Andrew S. Tanenbaum
+B0797 | Database System Concepts | Abraham Silberschatz
+B0798 | Modern Operating Systems | Andrew S. Tanenbaum
+B0799 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0800 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0801 | To Kill a Mockingbird | Harper Lee
+B0802 | 1984 | George Orwell
+B0803 | Pride and Prejudice | Jane Austen
+B0804 | The Great Gatsby | F. Scott Fitzgerald
+B0805 | Moby-Dick | Herman Melville
+B0806 | War and Peace | Leo Tolstoy
+B0807 | The Catcher in the Rye | J.D. Salinger
+B0808 | The Hobbit | J.R.R. Tolkien
+B0809 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0810 | The Lord of the Rings | J.R.R. Tolkien
+B0811 | Brave New World | Aldous Huxley
+B0812 | Crime and Punishment | Fyodor Dostoevsky
+B0813 | The Alchemist | Paulo Coelho
+B0814 | The Da Vinci Code | Dan Brown
+B0815 | The Kite Runner | Khaled Hosseini
+B0816 | The Fault in Our Stars | John Green
+B0817 | The Hunger Games | Suzanne Collins
+B0818 | The Chronicles of Narnia | C.S. Lewis
+B0819 | Jane Eyre | Charlotte Brontë
+B0820 | Wuthering Heights | Emily Brontë
+B0821 | The Picture of Dorian Gray | Oscar Wilde
+B0822 | Animal Farm | George Orwell
+B0823 | Little Women | Louisa May Alcott
+B0824 | Les Misérables | Victor Hugo
+B0825 | The Shining | Stephen King
+B0826 | It | Stephen King
+B0827 | A Game of Thrones | George R.R. Martin
+B0828 | The Name of the Wind | Patrick Rothfuss
+B0829 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0830 | Thinking, Fast and Slow | Daniel Kahneman
+B0831 | Clean Code | Robert C. Martin
+B0832 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0833 | Introduction to Algorithms | Thomas H. Cormen
+B0834 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0835 | Operating System Concepts | Abraham Silberschatz
+B0836 | Computer Networks | Andrew S. Tanenbaum
+B0837 | Database System Concepts | Abraham Silberschatz
+B0838 | Modern Operating Systems | Andrew S. Tanenbaum
+B0839 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0840 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0841 | To Kill a Mockingbird | Harper Lee
+B0842 | 1984 | George Orwell
+B0843 | Pride and Prejudice | Jane Austen
+B0844 | The Great Gatsby | F. Scott Fitzgerald
+B0845 | Moby-Dick | Herman Melville
+B0846 | War and Peace | Leo Tolstoy
+B0847 | The Catcher in the Rye | J.D. Salinger
+B0848 | The Hobbit | J.R.R. Tolkien
+B0849 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0850 | The Lord of the Rings | J.R.R. Tolkien
+B0851 | Brave New World | Aldous Huxley
+B0852 | Crime and Punishment | Fyodor Dostoevsky
+B0853 | The Alchemist | Paulo Coelho
+B0854 | The Da Vinci Code | Dan Brown
+B0855 | The Kite Runner | Khaled Hosseini
+B0856 | The Fault in Our Stars | John Green
+B0857 | The Hunger Games | Suzanne Collins
+B0858 | The Chronicles of Narnia | C.S. Lewis
+B0859 | Jane Eyre | Charlotte Brontë
+B0860 | Wuthering Heights | Emily Brontë
+B0861 | The Picture of Dorian Gray | Oscar Wilde
+B0862 | Animal Farm | George Orwell
+B0863 | Little Women | Louisa May Alcott
+B0864 | Les Misérables | Victor Hugo
+B0865 | The Shining | Stephen King
+B0866 | It | Stephen King
+B0867 | A Game of Thrones | George R.R. Martin
+B0868 | The Name of the Wind | Patrick Rothfuss
+B0869 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0870 | Thinking, Fast and Slow | Daniel Kahneman
+B0871 | Clean Code | Robert C. Martin
+B0872 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0873 | Introduction to Algorithms | Thomas H. Cormen
+B0874 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0875 | Operating System Concepts | Abraham Silberschatz
+B0876 | Computer Networks | Andrew S. Tanenbaum
+B0877 | Database System Concepts | Abraham Silberschatz
+B0878 | Modern Operating Systems | Andrew S. Tanenbaum
+B0879 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0880 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0881 | To Kill a Mockingbird | Harper Lee
+B0882 | 1984 | George Orwell
+B0883 | Pride and Prejudice | Jane Austen
+B0884 | The Great Gatsby | F. Scott Fitzgerald
+B0885 | Moby-Dick | Herman Melville
+B0886 | War and Peace | Leo Tolstoy
+B0887 | The Catcher in the Rye | J.D. Salinger
+B0888 | The Hobbit | J.R.R. Tolkien
+B0889 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0890 | The Lord of the Rings | J.R.R. Tolkien
+B0891 | Brave New World | Aldous Huxley
+B0892 | Crime and Punishment | Fyodor Dostoevsky
+B0893 | The Alchemist | Paulo Coelho
+B0894 | The Da Vinci Code | Dan Brown
+B0895 | The Kite Runner | Khaled Hosseini
+B0896 | The Fault in Our Stars | John Green
+B0897 | The Hunger Games | Suzanne Collins
+B0898 | The Chronicles of Narnia | C.S. Lewis
+B0899 | Jane Eyre | Charlotte Brontë
+B0900 | Wuthering Heights | Emily Brontë
+B0901 | The Picture of Dorian Gray | Oscar Wilde
+B0902 | Animal Farm | George Orwell
+B0903 | Little Women | Louisa May Alcott
+B0904 | Les Misérables | Victor Hugo
+B0905 | The Shining | Stephen King
+B0906 | It | Stephen King
+B0907 | A Game of Thrones | George R.R. Martin
+B0908 | The Name of the Wind | Patrick Rothfuss
+B0909 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0910 | Thinking, Fast and Slow | Daniel Kahneman
+B0911 | Clean Code | Robert C. Martin
+B0912 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0913 | Introduction to Algorithms | Thomas H. Cormen
+B0914 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0915 | Operating System Concepts | Abraham Silberschatz
+B0916 | Computer Networks | Andrew S. Tanenbaum
+B0917 | Database System Concepts | Abraham Silberschatz
+B0918 | Modern Operating Systems | Andrew S. Tanenbaum
+B0919 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0920 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0921 | To Kill a Mockingbird | Harper Lee
+B0922 | 1984 | George Orwell
+B0923 | Pride and Prejudice | Jane Austen
+B0924 | The Great Gatsby | F. Scott Fitzgerald
+B0925 | Moby-Dick | Herman Melville
+B0926 | War and Peace | Leo Tolstoy
+B0927 | The Catcher in the Rye | J.D. Salinger
+B0928 | The Hobbit | J.R.R. Tolkien
+B0929 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0930 | The Lord of the Rings | J.R.R. Tolkien
+B0931 | Brave New World | Aldous Huxley
+B0932 | Crime and Punishment | Fyodor Dostoevsky
+B0933 | The Alchemist | Paulo Coelho
+B0934 | The Da Vinci Code | Dan Brown
+B0935 | The Kite Runner | Khaled Hosseini
+B0936 | The Fault in Our Stars | John Green
+B0937 | The Hunger Games | Suzanne Collins
+B0938 | The Chronicles of Narnia | C.S. Lewis
+B0939 | Jane Eyre | Charlotte Brontë
+B0940 | Wuthering Heights | Emily Brontë
+B0941 | The Picture of Dorian Gray | Oscar Wilde
+B0942 | Animal Farm | George Orwell
+B0943 | Little Women | Louisa May Alcott
+B0944 | Les Misérables | Victor Hugo
+B0945 | The Shining | Stephen King
+B0946 | It | Stephen King
+B0947 | A Game of Thrones | George R.R. Martin
+B0948 | The Name of the Wind | Patrick Rothfuss
+B0949 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0950 | Thinking, Fast and Slow | Daniel Kahneman
+B0951 | Clean Code | Robert C. Martin
+B0952 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0953 | Introduction to Algorithms | Thomas H. Cormen
+B0954 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0955 | Operating System Concepts | Abraham Silberschatz
+B0956 | Computer Networks | Andrew S. Tanenbaum
+B0957 | Database System Concepts | Abraham Silberschatz
+B0958 | Modern Operating Systems | Andrew S. Tanenbaum
+B0959 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B0960 | Refactoring: Improving the Design of Existing Code | Martin Fowler
+B0961 | To Kill a Mockingbird | Harper Lee
+B0962 | 1984 | George Orwell
+B0963 | Pride and Prejudice | Jane Austen
+B0964 | The Great Gatsby | F. Scott Fitzgerald
+B0965 | Moby-Dick | Herman Melville
+B0966 | War and Peace | Leo Tolstoy
+B0967 | The Catcher in the Rye | J.D. Salinger
+B0968 | The Hobbit | J.R.R. Tolkien
+B0969 | Harry Potter and the Sorcerer's Stone | J.K. Rowling
+B0970 | The Lord of the Rings | J.R.R. Tolkien
+B0971 | Brave New World | Aldous Huxley
+B0972 | Crime and Punishment | Fyodor Dostoevsky
+B0973 | The Alchemist | Paulo Coelho
+B0974 | The Da Vinci Code | Dan Brown
+B0975 | The Kite Runner | Khaled Hosseini
+B0976 | The Fault in Our Stars | John Green
+B0977 | The Hunger Games | Suzanne Collins
+B0978 | The Chronicles of Narnia | C.S. Lewis
+B0979 | Jane Eyre | Charlotte Brontë
+B0980 | Wuthering Heights | Emily Brontë
+B0981 | The Picture of Dorian Gray | Oscar Wilde
+B0982 | Animal Farm | George Orwell
+B0983 | Little Women | Louisa May Alcott
+B0984 | Les Misérables | Victor Hugo
+B0985 | The Shining | Stephen King
+B0986 | It | Stephen King
+B0987 | A Game of Thrones | George R.R. Martin
+B0988 | The Name of the Wind | Patrick Rothfuss
+B0989 | Sapiens: A Brief History of Humankind | Yuval Noah Harari
+B0990 | Thinking, Fast and Slow | Daniel Kahneman
+B0991 | Clean Code | Robert C. Martin
+B0992 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma et al.
+B0993 | Introduction to Algorithms | Thomas H. Cormen
+B0994 | Artificial Intelligence: A Modern Approach | Stuart Russell and Peter Norvig
+B0995 | Operating System Concepts | Abraham Silberschatz
+B0996 | Computer Networks | Andrew S. Tanenbaum
+B0997 | Database System Concepts | Abraham Silberschatz
+B0998 | Modern Operating Systems | Andrew S. Tanenbaum
+B0999 | The Pragmatic Programmer | Andrew Hunt and David Thomas
+B1000 | Refactoring: Improving the Design of Existing Code | Martin Fowler

@@ -1,0 +1,12 @@
+# Laptops List
+# Format: ID | Model
+LAP01 | Dell XPS 13
+LAP02 | Dell Latitude 5420
+LAP03 | HP Spectre x360
+LAP04 | HP EliteBook 840
+LAP05 | Lenovo ThinkPad X1 Carbon
+LAP06 | Lenovo IdeaPad 5
+LAP07 | Apple MacBook Air (M1)
+LAP08 | Apple MacBook Pro 14
+LAP09 | ASUS ZenBook 14
+LAP10 | Acer Aspire 5
