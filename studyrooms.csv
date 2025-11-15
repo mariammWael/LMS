@@ -1,0 +1,5 @@
+InventoryID,RoomID,Capacity,Availability,Quantity
+R001,ROOM01,2,Available,1
+R002,ROOM02,4,Available,1
+R003,ROOM03,6,Available,1
+R004,ROOM04,8,Available,1

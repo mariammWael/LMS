@@ -1,0 +1,5 @@
+InventoryID,LaptopID,Model,Availability,Quantity
+L001,LAP001,Dell Latitude 5420,Available,1
+L002,LAP002,HP ProBook 450,Available,1
+L003,LAP003,Lenovo ThinkPad E14,Available,1
+L004,LAP004,MacBook Air M1,Available,1
