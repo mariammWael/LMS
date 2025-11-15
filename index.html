@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Library Management System</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Top Navigation -->
+  <header class="top-nav">
+    <div class="brand">
+      <span class="brand-icon">📚</span>
+      <span class="brand-text">Campus Library</span>
+    </div>
+
+    <nav class="nav-links">
+      <button class="nav-link active" data-section="home">Home</button>
+      <button class="nav-link" data-section="browse">Books</button>
+      <button class="nav-link" data-section="rooms">Rooms</button>
+      <button class="nav-link" data-section="laptops">Laptops</button>
+      <button class="nav-link" data-section="wishlist">Wishlist</button>
+      <button class="nav-link" data-section="activity">My Activity</button>
+      <button class="nav-link" data-section="admin">Admin</button>
+    </nav>
+
+    <div class="nav-actions">
+      <div class="global-search">
+        <input id="globalSearchInput" type="text" placeholder="Search books..." />
+        <button id="globalSearchBtn">Search</button>
+      </div>
+      <span id="userGreeting" class="user-greeting hidden"></span>
+      <button id="loginBtn" class="secondary">Login / Sign up</button>
+      <button id="logoutBtn" class="secondary hidden">Logout</button>
+      <button id="themeToggle" class="icon-btn" aria-label="Toggle theme">☀️</button>
+    </div>
+  </header>
+
+  <!-- Main Layout -->
+  <main class="main-layout">
+    <!-- HOME -->
+    <section id="home" class="section visible">
+      <div class="hero">
+        <div class="hero-text">
+          <p class="eyebrow">University Library</p>
+          <h1>Find, borrow, and study smarter.</h1>
+          <p class="hero-subtitle">
+            Search the catalogue, reserve study rooms, and manage your loans in one place.
+          </p>
+          <div class="hero-actions">
+            <button class="primary" data-section-target="browse">Browse books</button>
+            <button class="ghost" data-section-target="rooms">Book a study room</button>
+          </div>
+          <div class="hero-stats">
+            <div class="stat">
+              <div class="stat-label">Books</div>
+              <div class="stat-value">10,000+</div>
+            </div>
+            <div class="stat">
+              <div class="stat-label">Study Rooms</div>
+              <div class="stat-value">12</div>
+            </div>
+            <div class="stat">
+              <div class="stat-label">Laptops</div>
+              <div class="stat-value">50+</div>
+            </div>
+          </div>
+        </div>
+        <div class="hero-image">
+          <div class="hero-image-inner">
+            <div class="hero-overlay"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- BROWSE BOOKS -->
+    <section id="browse" class="section">
+      <header class="section-header">
+        <div>
+          <h2>Books</h2>
+          <p class="section-subtitle">Search the library catalogue and borrow titles.</p>
+        </div>
+        <div class="section-controls">
+          <input id="bookSearchInput" type="text" placeholder="Search by title or author..." />
+          <button id="bookSearchBtn">Search</button>
+        </div>
+      </header>
+
+      <div id="bookEmpty" class="empty-state hidden">
+        <h3>No books found</h3>
+        <p>Try searching with a different title or author.</p>
+      </div>
+
+      <div id="bookResults" class="card-grid"></div>
+    </section>
+
+    <!-- ROOMS -->
+    <section id="rooms" class="section">
+      <header class="section-header">
+        <div>
+          <h2>Study Rooms</h2>
+          <p class="section-subtitle">
+            Check availability and reserve a room for group or quiet study.
+          </p>
+        </div>
+        <div class="section-controls">
+          <input id="roomDate" type="date" />
+          <button id="checkAvailabilityBtn">Check availability</button>
+        </div>
+      </header>
+
+      <div id="roomEmpty" class="empty-state hidden">
+        <h3>No rooms available</h3>
+        <p>Try another date.</p>
+      </div>
+
+      <div id="roomGrid" class="card-grid"></div>
+    </section>
+
+    <!-- LAPTOPS -->
+    <section id="laptops" class="section">
+      <header class="section-header">
+        <div>
+          <h2>Laptops</h2>
+          <p class="section-subtitle">Borrow a laptop for coursework or projects.</p>
+        </div>
+        <div class="section-controls">
+          <input id="laptopSearchInput" type="text" placeholder="Search model or serial..." />
+          <button id="laptopSearchBtn">Search</button>
+        </div>
+      </header>
+
+      <div id="laptopEmpty" class="empty-state hidden">
+        <h3>No laptops found</h3>
+        <p>Try another model or serial number.</p>
+      </div>
+
+      <div id="laptopGrid" class="card-grid"></div>
+    </section>
+
+    <!-- WISHLIST -->
+    <section id="wishlist" class="section">
+      <header class="section-header">
+        <div>
+          <h2>Wishlist</h2>
+          <p class="section-subtitle">Books you saved to borrow later.</p>
+        </div>
+        <div class="section-controls">
+          <button id="clearWishlistBtn" class="ghost">Clear wishlist</button>
+        </div>
+      </header>
+
+      <div id="wishlistEmpty" class="empty-state">
+        <h3>No books in your wishlist</h3>
+        <p>Browse books and click "Add to wishlist" to save them here.</p>
+      </div>
+
+      <div id="wishlistList" class="card-grid"></div>
+    </section>
+
+    <!-- ACTIVITY -->
+    <section id="activity" class="section">
+      <header class="section-header">
+        <div>
+          <h2>My Activity</h2>
+          <p class="section-subtitle">Loans, wishlist changes, and room reservations.</p>
+        </div>
+        <div class="section-controls">
+          <button id="clearActivityBtn" class="ghost">Clear activity</button>
+        </div>
+      </header>
+
+      <div id="activityEmpty" class="empty-state">
+        <h3>No recent activity</h3>
+        <p>Borrow, reserve, or add to wishlist to see activity here.</p>
+      </div>
+
+      <div id="activityList" class="activity-list"></div>
+    </section>
+
+    <!-- ADMIN -->
+    <section id="admin" class="section">
+      <header class="section-header">
+        <div>
+          <h2>Admin Overview</h2>
+          <p class="section-subtitle">Snapshot of books, laptops, and room bookings.</p>
+        </div>
+      </header>
+
+      <div class="admin-grid">
+        <div class="admin-panel">
+          <h3>Books</h3>
+          <pre id="adminBooks" class="admin-pre"></pre>
+        </div>
+        <div class="admin-panel">
+          <h3>Rooms &amp; bookings</h3>
+          <pre id="adminRooms" class="admin-pre"></pre>
+        </div>
+        <div class="admin-panel">
+          <h3>Laptops</h3>
+          <pre id="adminLaptops" class="admin-pre"></pre>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- AUTH MODAL -->
+  <div id="authModal" class="modal">
+    <div class="modal-inner">
+      <header class="modal-header">
+        <h3 id="authTitle">Login</h3>
+        <button id="closeAuthModal" class="icon-btn">✕</button>
+      </header>
+      <div class="modal-body">
+        <label class="field">
+          <span>Email</span>
+          <input id="authEmail" type="email" placeholder="you@student.edu" />
+        </label>
+
+        <label class="switch-row">
+          <span>New user?</span>
+          <label class="switch">
+            <input id="signupToggle" type="checkbox" />
+            <span class="slider"></span>
+          </label>
+          <span>Sign up</span>
+        </label>
+      </div>
+      <footer class="modal-footer">
+        <button id="authSubmitBtn" class="primary full">Continue</button>
+      </footer>
+    </div>
+  </div>
+
+  <!-- DETAILS MODAL -->
+  <div id="detailsModal" class="modal">
+    <div class="modal-inner">
+      <header class="modal-header">
+        <h3 id="detailsTitle">Details</h3>
+        <button id="closeDetailsModal" class="icon-btn">✕</button>
+      </header>
+      <div id="detailsBody" class="modal-body"></div>
+    </div>
+  </div>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
