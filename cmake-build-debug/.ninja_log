@@ -1,0 +1,14 @@
+# ninja log v6
+44	294	7845732063244369	CMakeFiles/SWE_lms.dir/preferences.cpp.obj	5a691eb8931ca0e8
+17	318	7845732062971950	CMakeFiles/SWE_lms.dir/StudyRoom.cpp.obj	c1b9fb81a8e373e6
+36	301	7845732063163425	CMakeFiles/SWE_lms.dir/borrow.cpp.obj	24e62a45a24ad221
+11	307	7845732062911947	CMakeFiles/SWE_lms.dir/book.cpp.obj	7a317fbb8c2691df
+5	669	7845744458721513	CMakeFiles/SWE_lms.dir/main.cpp.obj	90e653a12ed02a99
+50	325	7845732063305185	CMakeFiles/SWE_lms.dir/laptop.cpp.obj	305e6a2472986d2a
+29	323	7845732063093429	CMakeFiles/SWE_lms.dir/inventory.cpp.obj	510df8a417207653
+22	324	7845732063021956	CMakeFiles/SWE_lms.dir/common.cpp.obj	9719a4ad8b38327f
+32	148	7845733180427447	CMakeFiles/SWE_lms.dir/member.cpp.obj	784241a107c0d76b
+27	122	7845733180375735	CMakeFiles/SWE_lms.dir/librarian.cpp.obj	132080cb7927f5bf
+670	908	7845744465362327	SWE_lms.exe	656b10702fb853d4
+10	716	7845740863896674	CMakeFiles/SWE_lms.dir/auth.cpp.obj	cff49b60fbf3d856
+15	763	7845740863946686	CMakeFiles/SWE_lms.dir/bookloader.cpp.obj	68040e774f9bbfbb
