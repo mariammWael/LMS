@@ -1,141 +1,86 @@
 # LMS
 Library Management System
 
-A modular C++ backend with a modern web-based frontend.
+A modular C++ backend paired with a modern web-based frontend.
 
 Overview
 
-The Library Management System (LMS) is a complete digital platform that manages:
+The Library Management System (LMS) is a complete digital platform for managing books, laptops, study rooms, members, librarians, borrowing operations, user activity, and administrative tasks.
 
-Books
-
-Laptops
-
-Study rooms
-
-Users
-
-Borrowing & returning operations
-
-Activity history
-
-Admin overview
-
-The backend is implemented entirely in C++, and exposes a structured REST API.
-The frontend is built using HTML, CSS, and JavaScript, providing a clean and intuitive interface.
+The backend is fully implemented in C++ and exposes a REST API.
+The frontend is built using HTML, CSS, and JavaScript, providing a clean and responsive user interface.
 
 Architecture
 
-The system follows a two-tier architecture consisting of:
+The system is built using a two-tier architecture consisting of a frontend client and a backend server.
 
 Frontend (Client Layer)
 
-The user interface is built using:
+The frontend is responsible for all user interactions and rendering. It is implemented using:
 
-HTML for structure
+HTML for page structure
 
 CSS for styling and layout
 
-JavaScript for interaction and dynamic rendering
+JavaScript for dynamic behavior and API communication
 
-The frontend is responsible for:
+Key responsibilities include:
 
-Displaying books, laptops, rooms, and user activity
+Displaying books, laptops, rooms, wishlist, and user activity
 
-Handling user interactions
+Handling user actions such as searching, borrowing, returning, and reserving
 
-Collecting inputs (search queries, borrow actions, reservations, login details)
+Managing authentication and user sessions
 
-Communicating with the backend through REST API calls
+Sending requests to the backend using the Fetch API
 
-All logic in the browser is handled in script.js, which interacts with the backend using the fetch() API.
+Rendering received JSON data into UI components
+
+All client-side logic resides in script.js.
 
 Backend (Application Layer)
 
-The backend is implemented entirely in C++, with a modular design that includes components such as:
+The backend is implemented entirely in C++ using a modular class-based design.
+It includes components that handle:
 
-Book management
+Books and book details
 
-Laptop management
+Laptops and device management
 
-Member operations
+Study room schedules
 
-Borrowing/returning logic
+Members and librarians
 
-Room scheduling
+Borrowing and returning operations
 
-Authentication
+Authentication and user preferences
 
-Inventory and admin views
+Inventory and administrative operations
 
-These components expose their functionality through a dedicated REST API server (server.cpp).
-The frontend does not access the internal C++ logic directly — instead, it communicates with HTTP endpoints that return structured JSON responses.
+A dedicated REST API layer (server.cpp) exposes this functionality to the frontend.
+Requests from the frontend are received via HTTP, processed using the backend logic, and returned as structured JSON responses.
 
 Communication Between Frontend and Backend
 
-The two layers communicate using:
+The frontend and backend communicate through:
 
-HTTP requests (GET, POST)
+HTTP GET and POST requests
 
-JSON payloads for sending and receiving data
+JSON-formatted request bodies and responses
 
-For example:
+Examples:
 
-When the user searches for a book, the frontend sends a GET request to /api/search.
+Searching for books triggers a GET request to /api/search?query=...
 
-When borrowing a book, the frontend sends a POST request to /api/borrow/{id}.
+Borrowing a book sends a POST request to /api/borrow/{id}
 
-When reserving a study room, it sends a JSON payload to /api/rooms/book.
+Reserving a study room sends a POST request with a JSON payload to /api/rooms/book
 
-The backend processes the request, interacts with the internal C++ models, and returns the appropriate JSON response, which the frontend uses to update the UI.
-
-Frontend
-
-Located in /LibraryFrontend
-
-Contains all UI components:
-
-index.html
-
-style.css
-
-script.js
-
-Communicates with backend over REST (fetch() calls)
-
-Backend
-
-Entirely C++
-
-Implements all library logic:
-
-Book management
-
-Laptop management
-
-Room reservations
-
-Authentication
-
-Borrow/return operations
-
-Exposes endpoints through a REST server (server.cpp)
-
-REST Layer
-
-All backend functionality is accessible through:
-
-/api/books
-/api/laptops
-/api/rooms
-/api/activity
-/api/login
-/api/signup
-...
+The backend processes these requests using the underlying C++ modules and returns JSON data, which the frontend uses to update the interface.
 
 Project Structure
 root/
-│── server.cpp          # REST API implementation
+│── server.cpp
 │── server.h
 │── main.cpp
 │── CMakeLists.txt
@@ -175,80 +120,67 @@ GET    /api/rooms
 GET    /api/rooms/slots?date=YYYY-MM-DD
 POST   /api/rooms/book
 
+
+Example request body:
+
+{
+  "roomId": 1,
+  "date": "2025-01-01",
+  "slot": "10:00-11:00"
+}
+
 Authentication
 POST   /api/login
 POST   /api/signup
 
 Frontend Features
 
-Dashboard-style interface
+Landing page
 
-Search functionality
+Book browsing and search
 
-Book browsing
+Borrowing and wishlist system
 
 Laptop management
 
-Dynamic room slot display
+Study room scheduling with available time slots
 
-Activity timeline
+Activity tracking
 
-Wishlist
+Admin overview panels
 
-Light/dark theme toggle
+Login and signup modal
 
-Authentication modal
+Light and dark theme toggle
 
-Admin data panels
-
-All interactions occur through API calls defined in script.js.
+Fully dynamic UI using JavaScript
 
 Backend Features
 
-Modular C++ class design
+Modular C++ design with separate classes for each subsystem
 
-Encapsulated logic for:
+Complete borrowing and return logic
 
-Books, Laptops, Members
+Room booking mechanisms
 
-Borrowing
+Laptop management
 
-Preferences
+Admin and inventory operations
 
-Study rooms
+JSON handling for all REST responses
 
-Inventory operations
-
-JSON-based communication
-
-Stateless HTTP API
-
-Clean separation of logic and server layer
+Central REST API server built in C++
 
 Build System
 
 The backend uses:
 
-CMake
+CMake as the build system
+
 C++17
-Pistache (HTTP)
-nlohmann/json
 
+Pistache for HTTP server functionality
 
-All backend components are compiled into a single server executable.
+nlohmann/json for JSON parsing
 
-The frontend requires no build step.
-
-Design Principles
-
-Separation of concerns
-
-Reusable C++ classes
-
-Clean REST abstractions
-
-Fully client-side rendered UI
-
-JSON-based communication
-
-Expandable architecture (e.g., database support in the future)
+The frontend requires no build steps.
